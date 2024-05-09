@@ -1,4 +1,4 @@
-ALL THE Folders and Files of this project are present in my-new-branch 
+ALL THE Folders and Files of this project are present in a new branch named my-new-branch 
 # SalonManagementSystem
 I am doing my project on Salon Management System. There is the need for efficient management of 
 a network-based system for handling customer orders.
